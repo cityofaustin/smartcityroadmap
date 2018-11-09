@@ -16,7 +16,11 @@ Testing out github for project management related to Austin's smart city strateg
 
 ## Public updates and presentations
 
+[November 14, 2018 update to the Community Technology and Telecommunications Commission](https://docs.google.com/presentation/d/1cH8LIYZyCtI3-ws6Yw8dEG1ONsQeiNvSMXl7VrT9OVw/edit?usp=sharing)
+
 [August 22, 2018 update memo on smart city next steps](http://bit.ly/scupdate-aug2018) 
+
+[July 11, 2018 update to the Community Technology and Telecommunications Commission](https://docs.google.com/presentation/d/1agcU3cYfG6osH9YPFG_vga3D1VJnlfWF4RGbErDTwgU/edit?usp=sharing)
 
 [November 2017 update to City Council on Smart City Strategic Roadmap](http://www.austintexas.gov/edims/document.cfm?id=287553) ([video here](https://smartaustin.bloomfire.com/posts/2858694-nov-2017-council-work-session-update-on-the-austin-smart-city-strategic-roadmap))
 
