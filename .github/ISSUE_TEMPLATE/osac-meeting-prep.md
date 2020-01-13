@@ -8,16 +8,18 @@ assignees: ''
 ---
 
 ## Checklist
-- [ ] schedule meeting
-- [ ]  Draft agenda
-- [ ]  Review agenda with Principals
-- [ ]  check on rsvps
+- [ ] Schedule OSAC meeting
+- [ ] Schedule meeting with Principals to prepare the agenda
+- [ ]  Draft agenda topics to share with Principals
+- [ ]  Meet with Principals to review agenda
 - [ ]  Revise agenda after meeting with Principals
-- [ ]  revisit/update invite list
-- [ ]  Reach out to speakers
-- [ ]  follow up with speakers with guidance/logistics
-- [ ]  create meeting slides
-- [ ]  send talking points to Chair (one week in advance)
+- [ ]  Check on rsvps
+- [ ]  Revisit/update invite list
+- [ ]  Invite speakers for agenda items
+- [ ]  Follow up with speakers with guidance/logistics to prep their presentations
+- [ ]  Create meeting slide deck
+- [ ] Get slides and materials from speakers
+- [ ]  Send talking points to Chair (one week in advance)
 - [ ]  Send materials and agenda in advance
 
 ## Potential topics
